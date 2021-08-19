@@ -1,0 +1,46 @@
+* {
+  color: purple;
+}
+
+.grid {
+  border: 1px solid;
+  display: flex;
+  margin-left: 40%;
+  flex-wrap: wrap;
+  height: 360px; 
+  width: 360px;
+}
+button{
+  margin-left: 40%;
+}
+.grid div {
+  height: 40px;
+  width: 40px;
+}
+
+.ending-block {
+  background-color: #32612D;
+}
+.starting-block {
+  background-color: #32612D;
+}
+.c1 {
+  background-color: black;
+}
+
+.l1, .l2, .l3 {
+  background-color: brown;
+  box-shadow: 0 0 1px black;
+}
+.l4, .l5, .lf2, .lf3 {
+  background-color: lightblue;
+}
+.c2, .c3 {
+  background-color: grey;
+}
+.frog {
+  background-color: #03AC13;
+}
+h3 {
+  text-align: center;
+}

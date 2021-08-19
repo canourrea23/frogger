@@ -1,0 +1,9 @@
+# frogger
+  - querySelector()
+  - addEventListener()
+  - setInterval()
+  - clearInterval()
+  - forEach()
+  - classList.contains()
+  - classList.add()
+  - classList.remove()
